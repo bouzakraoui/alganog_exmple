@@ -1,1 +1,2 @@
-# alganog_exmple
+# alganog_exmpler
+readme
